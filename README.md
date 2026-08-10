@@ -1,18 +1,3 @@
-<div align="center">
-    <a href="https://www.youtube.com/@avencores/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/338bcd74-e3c3-4700-87ab-7985058bd17e" alt="YouTube" height="40">
-    </a>
-    <a href="https://t.me/avencoresyt" target="_blank">
-      <img src="https://github.com/user-attachments/assets/939f8beb-a49a-48cf-89b9-d610ee5c4b26" alt="Telegram" height="40">
-    </a>
-    <a href="https://vk.ru/avencoresreuploads" target="_blank">
-      <img src="https://github.com/user-attachments/assets/dc109dda-9045-4a06-95a5-3399f0e21dc4" alt="VK" height="40">
-    </a>
-    <a href="https://dzen.ru/avencores" target="_blank">
-      <img src="https://github.com/user-attachments/assets/bd55f5cf-963c-4eb8-9029-7b80c8c11411" alt="Dzen" height="40">
-    </a>
-</div>
-
 # 📖 Описание проекта
 
 <p align="center">
@@ -32,10 +17,6 @@
 Каждый конфиг — это TXT-подписка, которую можно импортировать практически в любой современный клиент (`v2rayNG`, `NekoRay`, `Throne`, `v2rayN`, `V2Box`, `v2RayTun`, `Hiddify` и др.).
 
 Конфиги обновляются каждые **9 минут** с помощью GitHub Actions, поэтому ссылки из раздела **«📋 Общий список всех вечно актуальных конфигов»** всегда актуальны.
-
-<a href="https://avencores.github.io/goida-vpn-site/">
-  <img alt="1" src="https://github.com/user-attachments/assets/80f69696-5eb5-44fa-94bf-1fe50303f683" />
-</a>
 
 ## 📑 Содержание
 - [📖 Описание проекта](#-описание-проекта)
@@ -154,39 +135,6 @@ python main.py                  # конфиги появятся в ../githubmi
 
 ---
 
-# 🎦 Видео гайд по установке и решению проблем
-
-![maxresdefault](https://github.com/user-attachments/assets/e36e2351-3b1a-4b90-87f7-cafbc74f238c)
-
-<div align="center">
-
-> ⚠️ **Внимание!** Для iOS и iPadOS актуален только текстовый гайд ниже. Видео гайд актуален только для Android, Android TV, Windows, Linux, MacOS.
-
-[**Смотреть на YouTube**](https://youtu.be/sagz2YluM70)
-
-[**Смотреть на VK Video**](https://vk.com/video-200297343_456239303)
-
-[**Смотреть в Telegram**](https://t.me/avencoreschat/56595)
-
-</div>
-
----
-
-# 🔓 Видео гайд по обходу SNI/CIDR белых списков
-
-![maxresdefault](https://github.com/user-attachments/assets/63397f2f-4aca-44c3-bd2e-ed9d629388c6)
-
-<div align="center">
-
-[**Смотреть на YouTube**](https://youtu.be/uz6JmOO7sGU)
-
-[**Смотреть на VK Video**](https://vk.ru/video-234234162_456239052)
-
-[**Смотреть в Telegram**](https://t.me/avencoreschat/346024)
-
-</div>
-
----
 
 # 🗂️ Общее меню гайдов репозитория
 
